@@ -1,0 +1,29 @@
+.jumbotron {
+    background-image: url("../images/jumbotron-bg.jpg");
+    background-size: 100% 100%;
+    
+  }
+  
+  .jumbotron h1 {
+    color: white;
+    text-shadow: 1px 1px black;
+  
+  }
+  
+  .instructions {
+    text-align: center; 
+  }
+
+
+  .row {
+  text-align: center;
+  display: inline;
+  
+  }
+ 
+  .img-thumbnail {
+    border: 0px;
+   
+  }
+  
+    
